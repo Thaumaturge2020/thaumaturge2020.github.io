@@ -102,3 +102,16 @@ theme: next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+gitment:
+  enable: true
+  mint: true # RECOMMEND, A mint on Gitment, to support count, language and proxy_gateway
+  count: true # Show comments count in post meta area
+  lazy: false # Comments lazy loading with a button
+  cleanly: false # Hide 'Powered by ...' on footer, and more
+  language: # Force language, or auto switch by theme
+  github_user: thaumaturge2020
+  github_repo: thaumaturge2020.comment
+  client_id: Ov23likJ6Th862ExY8gi
+  client_secret: 855243103b52dd57bd4d83a550d932951ceb1cf1
+ 
