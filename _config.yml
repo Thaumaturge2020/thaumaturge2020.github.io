@@ -110,8 +110,8 @@ gitment:
   lazy: false # Comments lazy loading with a button
   cleanly: false # Hide 'Powered by ...' on footer, and more
   language: zh-Hans # Force language, or auto switch by theme
-  github_user: "thaumaturge2020"
-  github_repo: "thaumaturge2020.github.io"
-  client_id: "Ov23likJ6Th862ExY8gi"
-  client_secret: "855243103b52dd57bd4d83a550d932951ceb1cf1"
+  github_user: thaumaturge2020
+  github_repo: thaumaturge2020.github.io
+  client_id: Ov23likJ6Th862ExY8gi
+  client_secret: 855243103b52dd57bd4d83a550d932951ceb1cf1
  
